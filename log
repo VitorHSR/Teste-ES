@@ -1,0 +1,103 @@
+    1  heroku login
+    2  heroku login
+    3  heroku login
+    4  heroku login
+    5  git config --global user.name "Vitor"
+    6  git config --global user.email "vitorsellrs@gmail.com"
+    7  git config --global user.email
+    8  git config --global user.name
+    9  git config user.email
+   10  git clone https://github.com/PauloHartwig/Projeto.git
+   11  git status
+   12  cd /projeto
+   13  cd Projeto/
+   14  git status
+   15  git add .
+   16  git commit -m "Adicionado o arquivo do Travis"
+   17  git push
+   18  git pull
+   19  git pull
+   20  ,
+   21  git add .
+   22  git commit -m "Alteracão para aula"
+   23  git push
+   24  git pull
+   25  git pull
+   26  git pull
+   27  git pull
+   28  checkout doc
+   29  git checkout doc
+   30  git pull
+   31  git clone https://github.com/PauloHartwig/Finmap.git
+   32  cd Finmap/
+   33  git pull
+   34  git status
+   35  git add .
+   36  git commit -m "Arquivos Controller criados"
+   37  git push
+   38  git push
+   39  git pull
+   40  git pull
+   41  cd Desktop/
+   42  cd Finmap/
+   43  heroku login
+   44  heroku login
+   45  cd Desktop/
+   46  cd Finmap/
+   47  heroku login
+   48  winpty heroku login
+   49  git config --list
+   50  heroku create finmap
+   51  git clone 
+   52  git clone 
+   53  git clone https://github.com/PauloHartwig/Mussum-API.git
+   54  cd Mussum-API/
+   55  git pull0
+   56  git pull
+   57  cd ..
+   58  cd Mussum-API/
+   59  cd ..
+   60  cd usr/
+   61  cd ..
+   62  cd ls -l
+   63  cd usr/
+   64  ls -l
+   65  cd ..
+   66  cd ..
+   67  cd Desktop
+   68  cd c:;
+   69  cd c:
+   70  cd Users/
+   71  cd aluno
+   72  cd Desktop/
+   73  git clone https://github.com/PauloHartwig/Mussum-API.git
+   74  cd Mussum-API
+   75  git status
+   76  git add .
+   77  git commit -m "Adicionada importacão do Date"
+   78  git push
+   79  git config --global user.name
+   80  git push
+   81  cd Desktop/
+   82  cd Tes
+   83  cd TesteES
+   84  ls -l
+   85  cd ..
+   86  cd cd C:\Users\aluno\Desktop\TesteES
+   87  cd C:\Users\aluno\Desktop\TesteES
+   88  cd c:;
+   89  cd c:
+   90   cd Users/
+   91  cd aluno
+   92  cd Desktop/
+   93  cd TesteES/
+   94  git push -u origin master
+   95  git pull
+   96  git pull
+   97  git pull origin master
+   98  git push -u origin master
+   99  git config --global user.name
+  100  git config --global user.email
+  101  git pull
+  102  git push
+  103  history > log
